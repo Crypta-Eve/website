@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Crypta Tech</title>
-    <link>localhost/</link>
-    <description>Recent content on Crypta Tech</description>
+    <title>Plugins on Crypta Tech</title>
+    <link>localhost/plugins/</link>
+    <description>Recent content in Plugins on Crypta Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Spyglass</title>
-      <link>localhost/spyglass/</link>
-      <pubDate>Thu, 14 Jan 2021 07:51:07 +1100</pubDate>
-      
-      <guid>localhost/spyglass/</guid>
-      <description>Welcome To Spyglass Spyglass is an intel visualisation and alarm system for EVE Online. This too gathers information from in game chat channels and presents the data on a dotlan generated map. The map is highlighted in real time as players report intel in monitored chat channels.
-Spyglass is written with Python 2.7, using PyQt4 for the graphical interface, BeautifulSoup4 for SVG parsing, and Pyglet for audio playback.
-News -The current release version of Spyglass can be found here at the bottom of the page or on the GitHub releases page.</description>
-    </item>
-    
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="localhost/plugins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SeAT Fitting</title>
       <link>localhost/plugins/seat-fitting/</link>
