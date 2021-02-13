@@ -16,7 +16,7 @@ Spyglass is an intel visualisation and alarm system for [EVE Online](http://www.
 Spyglass is written with Python 2.7, using PyQt4 for the graphical interface, BeautifulSoup4 for SVG parsing, and Pyglet for audio playback.
 
 ### News
--The current release version of Spyglass [can be found here](http://www.crypta.tech/spyglass) at the bottom of the page or on the [GitHub releases page](https://github.com/Crypta-Eve//releases).
+-The current release version of Spyglass can be found on the [GitHub releases page](https://github.com/Crypta-Eve/spyglass/releases).
 
 
 ## Screenshot
@@ -149,4 +149,4 @@ If you are technically inclined and have a solid grasp of Python, [contact the p
 
 **I'm not a coder, how can I help?**
 
-Your feedback is needed! Use the program for a while, then come back [here and create issues](https://github.com/Crypta-Eve//issues). Record anything you think about Spyglass - bugs, frustrations, and ideas to make it better.
+Your feedback is needed! Use the program for a while, then come back [here and create issues](https://github.com/Crypta-Eve/spyglass/issues). Record anything you think about Spyglass - bugs, frustrations, and ideas to make it better.
