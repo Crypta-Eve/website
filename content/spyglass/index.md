@@ -8,6 +8,19 @@ menu: main
 
 {{< image src="/img/spyglass1.png" alt="Spyglass1" position="center" style="border-radius: 5px;" >}}
 
+# UPDATE 9 FEB 2021
+As of the patch distributed on 9 Feb 2021, spyglass is now non functional. This is because the filename of the chatlogs has changed. This is actually a simple fix code wise. However what is not simple is getting the old dev tools to compile this project to an executable. I have been unable to get this working.
+
+### The future!
+In response to this, I am consuming copious amounts of rocket fuel and working to get a Spyglass 2 beta release out ASAP! I will make an update here as well as various other eve media platforms once it is ready.
+
+### How can you help?
+If you have the ability to compile the windows exetuable of spyglass using pyinstaller please get in touch, my discord handle is `Crypta Eve#9846`. If you want to attempt this, then you will need:
+- python 2.7 (perhaps even attempt 2.6) 
+- PyQt4 (unsure what patch version, archived downloads are available on sourceforge)
+- pyglet==1.2.4
+
+If I can find someone to compile the exectuable I can have a patch out to spyglass 1 extremely quickly. Otherwise we must wait until I have a beta of spyglass 2.
 
 # Welcome To Spyglass
 
