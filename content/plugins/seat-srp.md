@@ -2,7 +2,6 @@
 title: "SeAT SRP"
 draft: false
 ---
-
 # seat-srp
 A module for SeAT that tracks SRP requests
 
@@ -60,7 +59,7 @@ Automated notifications of new SRP Requests submitted in Discord
 5. Copy the Webhook URL
 6. Click `Save` to finish creating the webhook
 
-***In SeAT file:***
+***In SeAT***
 
 The Ship Replacement Program Settings page accepts two variables for the webhook:
 
